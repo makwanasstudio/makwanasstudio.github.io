@@ -53,6 +53,17 @@ GAMES = [
         ],
         rewards='a hint, an extra bottle, or an undo',
     ),
+    dict(
+        slug='button-puzzle',
+        name='MsS - Button Puzzle',
+        tagline='One button, one rule. Read carefully, press the right number of times, and do not get tricked.',
+        stored=[
+            'the player name you choose to type in (you can change it at any time);',
+            'the language you choose (English, Hindi or Gujarati);',
+            'the highest level you have reached and your last checkpoint, so you can continue where you left off.',
+        ],
+        rewards='a second chance on the same level or a look at the answer',
+    ),
 ]
 
 CSS = """:root { --bg:#120816; --panel:#2a1226; --text:#f3d9c4; --dim:#d9b8c4; --gold:#ffc857; --ember:#ff6b35; }
