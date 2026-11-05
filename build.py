@@ -8,7 +8,7 @@ import os
 from html import escape
 
 STUDIO = "Makwana's Studio"
-EMAIL = 'bunnypanchal1432@gmail.com'  # shown publicly on every page: change it here, then rebuild
+EMAIL = 'makwanasstudio@gmail.com'  # shown publicly on every page: change it here, then rebuild
 UPDATED = '3 November 2026'
 BASE = 'https://makwanasstudio.github.io'
 
